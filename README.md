@@ -76,9 +76,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output :
-```
-https://private-user-images.githubusercontent.com/120206067/243929736-6630d8b9-e278-4051-a2c4-9fa91c1e6d44.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE0MTEyNDEsIm5iZiI6MTcwMTQxMDk0MSwicGF0aCI6Ii8xMjAyMDYwNjcvMjQzOTI5NzM2LTY2MzBkOGI5LWUyNzgtNDA1MS1hMmM0LTlmYTkxYzFlNmQ0NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwMVQwNjA5MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYjY0OGNkNGI4M2UxNTk4YWZiZGQ5MjVmMWY3NWQ0MmJjOGE3MTMwOTcxYWIxMzM2NzY0MzQzMzM4MDI0ZWMyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ROnhx4TzPbyIvPFTtH3L2V-lUChfgDrcjxUcuro5_eA
-```
+![image](https://github.com/narenm03/Mean-and-Variance/assets/152469427/f889cd96-cebf-4ca9-bdef-06c41af6fe01)
+
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
