@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+#   EXP - 1 Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -49,6 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
+# DEVELOPER BY : NARENDHARAN.M
+# REG NO : 23001796
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -76,7 +78,8 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 
 # Output :
-![image](https://github.com/narenm03/Mean-and-Variance/assets/152469427/f889cd96-cebf-4ca9-bdef-06c41af6fe01)
+![image](https://github.com/narenm03/Mean-and-Variance/assets/152469427/a521f9b3-fab4-4f2c-a327-fea6ba96cb26)
+
 
 
 # Results :
